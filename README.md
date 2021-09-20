@@ -10,7 +10,8 @@ You can optionally also create STIG checklists for each of the individual switch
 This is a great way of tracking switch STIG compliance for all of the most recent DISA STIGs.
 
 
-Supported STIG checklists:
+**Supported STIG checklists:**
+
 CISCO IOS L2S Switch STIG V2R2 - Release Date: 23 Jul 2021
 
 CISCO IOS NDM Switch STIG V2R3 - Release Date: 23 Jul 2021
