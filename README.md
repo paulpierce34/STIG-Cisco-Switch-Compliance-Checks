@@ -12,9 +12,15 @@ This is a great way of tracking switch STIG compliance for all of the most recen
 
 Supported STIG checklists:
 CISCO IOS L2S Switch STIG V2R2 - Release Date: 23 Jul 2021
+
 CISCO IOS NDM Switch STIG V2R3 - Release Date: 23 Jul 2021
+
 CISCO IOS-XE Switch L2S STIG V2R2 - Release Date: 23 Jul 2021
+
 Cisco IOS-XE Switch NDM STIG V2R3 - Release Date: 23 Jul 2021
+
 Cisco IOS-XE Router NDM STIG V2R3 - Release Date: 23 Jul 2021
+
 Cisco IOS-XE Router RTR STIG V2R2 - Release Date: 23 Apr 2021
+
 CISCO IOS-XE Switch RTR STIG V2R2 - Release Date: 23 Jul 2021
