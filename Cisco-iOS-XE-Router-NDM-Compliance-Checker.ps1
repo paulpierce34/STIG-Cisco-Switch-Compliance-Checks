@@ -1,5 +1,5 @@
 ﻿## Most recent STIG: 
-###            Cisco IOS Switch NDM STIG - V2R3 - Released: 23 Jul 2021
+###            Cisco IOS-XE Router NDM STIG - V2R3 - Released: 23 Jul 2021
 
 
 
