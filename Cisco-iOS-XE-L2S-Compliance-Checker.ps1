@@ -1,4 +1,4 @@
-﻿## CISCO IOS L2S STIG V2R2 Released 23 Jul 2021
+﻿## CISCO IOS-XE L2S STIG V2R2 Released 23 Jul 2021
 
 
 
