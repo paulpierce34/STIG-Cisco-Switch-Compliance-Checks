@@ -1,13 +1,13 @@
 # STIG-Cisco-Switch-Compliance-Checks
 
-This script should be ran against a directory of switch or router configurations to determine their STIG compliance.
+Each script should be ran against a directory of switch or router configurations to determine their STIG compliance for the associated checklist.
 
 The switch/router configuration will be cross-referenced by a blank STIG .ckl file supplied by the user (user will be prompted upon running script).
 
 The output will be a 'Quick Glance' text file where you can quickly look for what each individual switch is missing in terms of STIG items.
 You can optionally also create STIG checklists for each of the individual switches.
 
-This is a great way of tracking switch STIG compliance for all of the most recent DISA STIGs.
+This is a great way of tracking switch or router STIG compliance for all of the most recent DISA STIGs.
 
 
 **Supported STIG checklists:**
